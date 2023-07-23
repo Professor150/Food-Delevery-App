@@ -35,7 +35,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. **Clone the repository**: Use the following command to clone this repository to your local machine.
 
    ```bash
-   git clone[ https://github.com/your_username/food_delivery_ui.git](https://github.com/Professor150/Food-Delevery-App)
+   git clone[ https://github.com/Professor150/Food-Delevery-App.git](https://github.com/Professor150/Food-Delevery-App)
    ```
 
 3. **Install dependencies**: Navigate to the project directory and run the following command to install the required dependencies.
