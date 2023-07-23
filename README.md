@@ -1,6 +1,6 @@
 # Food Delivery UI - Flutter App
 
-![Flutter Version](https://img.shields.io/badge/flutter-%5E2.5.0-blue.svg)
+![Flutter Version](https://img.shields.io/badge/flutter-%5E3.10.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Overview
